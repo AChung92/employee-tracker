@@ -5,7 +5,7 @@ require("console.table");
 
 init();
 
-// initial function at NPM start
+//initial function at NPM start
 function init() {
     runPrompts();
 }
